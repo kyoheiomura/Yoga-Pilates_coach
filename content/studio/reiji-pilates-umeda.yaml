@@ -1,0 +1,29 @@
+slug: reiji-pilates-umeda
+name: れいじピラティス 梅田
+nameKana: れいじぴらてぃす うめだ
+kind: ヨガ・ピラティススタジオ
+address:
+  prefSlug: osaka
+  citySlug: osaka-kita
+  line: 芝田1-2-3（架空）
+  building: 例示ビル7階
+stations:
+  - line: 阪急線
+    name: 大阪梅田
+    walkMin: 4
+  - line: 大阪メトロ御堂筋線
+    name: 梅田
+    walkMin: 6
+hours:
+  - days: [月, 火, 水, 木, 金]
+    open: "07:30"
+    close: "21:30"
+  - days: [土, 日, 祝]
+    open: "09:00"
+    close: "18:00"
+hoursNote: 朝7時30分のクラスは平日のみ。予約は前日まで
+booking:
+  url: https://example.com/reiji-pilates-umeda
+  phone: 06-0000-0000
+features: [更衣室, シャワー, ウェア・マットの貸し出し, オンライン対応]
+verifiedAt: 2026-10-20

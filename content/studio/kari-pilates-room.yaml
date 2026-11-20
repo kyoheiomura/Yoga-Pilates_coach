@@ -1,0 +1,28 @@
+slug: kari-pilates-room
+name: 仮ピラティスルーム 恵比寿
+nameKana: かりぴらてぃするーむ えびす
+kind: ピラティススタジオ
+address:
+  prefSlug: tokyo
+  citySlug: shibuya
+  line: 恵比寿西1-2-3（架空）
+  building: 仮マンション402
+stations:
+  - line: JR山手線
+    name: 恵比寿
+    walkMin: 6
+  - line: 東急東横線
+    name: 代官山
+    walkMin: 7
+hours:
+  - days: [月, 火, 木, 金]
+    open: "09:00"
+    close: "21:00"
+  - days: [土]
+    open: "09:00"
+    close: "17:00"
+hoursNote: 水・日・祝は休み。完全予約制で、ひと枠ごとに入れ替える
+booking:
+  url: https://example.com/kari-pilates-room
+features: [完全個室, 女性専用, 更衣室, ウェア・マットの貸し出し]
+verifiedAt: 2026-11-02

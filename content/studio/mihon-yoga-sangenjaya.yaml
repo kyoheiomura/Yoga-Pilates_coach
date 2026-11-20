@@ -1,0 +1,28 @@
+slug: mihon-yoga-sangenjaya
+name: みほんヨガ 三軒茶屋
+nameKana: みほんよが さんげんぢゃや
+kind: ヨガスタジオ
+address:
+  prefSlug: tokyo
+  citySlug: setagaya
+  line: 太子堂1-2-3（架空）
+  building: 見本ビル2階
+stations:
+  - line: 東急田園都市線
+    name: 三軒茶屋
+    walkMin: 5
+  - line: 東急世田谷線
+    name: 西太子堂
+    walkMin: 4
+hours:
+  - days: [火, 水, 金]
+    open: "10:00"
+    close: "20:30"
+  - days: [土, 日]
+    open: "09:00"
+    close: "16:00"
+hoursNote: 月・木は休み。1クラス6人までの予約制
+booking:
+  url: https://example.com/mihon-yoga-sangenjaya
+features: [更衣室, ウェア・マットの貸し出し]
+verifiedAt: 2026-11-05
